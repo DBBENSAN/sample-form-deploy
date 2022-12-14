@@ -16,8 +16,8 @@ nav{
 }
 
 ul {
-    list-style: none;
-    display: inline;
+    list-style-type: none;
+    display: inline-block;
     position: relative;
 }
 header {

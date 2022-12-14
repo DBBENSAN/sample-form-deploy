@@ -40,3 +40,8 @@ input {
     background-color: lemonchiffon;
     font-weight: lighter;
 }
+
+label {
+    font-weight: bold;
+    font-size: medium;
+}

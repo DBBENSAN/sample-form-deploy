@@ -1,0 +1,30 @@
+*{
+    padding:0px;
+    border:0px;
+}
+
+header,
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: aquamarine;
+    padding:10px;
+    border: 2px solid black;
+    
+}
+
+#cats {
+    padding: 1px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    
+}
+
+input {
+    background-color: lemonchiffon;
+    font-weight: lighter;
+}
